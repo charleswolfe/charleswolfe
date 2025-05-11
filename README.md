@@ -1,10 +1,10 @@
-# Hi, I'm Charles Wolfe 👋
+# 👋 I’m Charles Wolfe
+I like building things that work well.
 
+Over the years, I’ve worked on software systems big and small, some from scratch, some half-broken when I found them. I’ve led teams, cleaned up old code, written new tools, and spent a lot of time figuring out how to make things better, not just different.
 
-I’ve spent years developing software, solving complex problems, and leading teams through ambitious projects. Whether I’m designing cloud-native applications, improving legacy systems, or diving deep into automation, I approach every challenge with a commitment to quality and innovation. 
+I care about clarity, about doing things right, and about solving real problems. I write code in Python, TypeScript, PHP, and JavaScript - they get the job done.
 
-I’m not just a coder, I’m a builder at heart. I love bringing ideas to life, collaborating with others, and driving progress forward.
-
-🔭 Currently working on personal projects involving Python, Typescript, PHP and JavaScript
+Lately, I’ve been working on personal projects that give me room to experiment, think, and build with fewer constraints. That’s where the good ideas come from anyway.
  
 
